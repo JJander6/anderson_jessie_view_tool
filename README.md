@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AndersonJessieViewTool::Renderer.copyright 'Jessie Anderson', 'All rights reserved'
+```
 
 ## Development
 
